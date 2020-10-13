@@ -21,7 +21,7 @@ FILENAME_PRO = "profiles.csv"
 class Manage:
     def __init__(self):
         
-        #create a list of student Object
+        
         #self__list_student will store object of Student class
         self.__list_student = []
         self.__list_job = []
